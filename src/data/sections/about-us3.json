@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "image1": "/img/01.png",
+  "image2": "/img/02.jpg",
+  "exp": {
+    "nmb": 3,
+    "name": "Years Of Experience"
+  },
+  "title": { "first": "Transforming Ideas Into Impactful Marketing Magic", "second": "" },
+  "content": {
+    "first": "Welcome to Immersive Tech Lab, where we transform your brand to the next level and apply efficient digital marketing techniques to achieve online success. Enhance your brand identity and unlock the power of the digital age!",
+    "second": ""
+  },
+  "smallTitle": "About Us"
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-paint-bucket",
+        "title": "Web Design",
+        "content": "Design is the first thing you need to allow your business to grow. Our specialty is creating web designs that turn window shoppers into customers.",
+        "link": "/Services/WebDesign"
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-diskette",
+        "title": "Web Development",
+        "content": "We convert your complex designs to fully functioning websites. We work on different languages and frameworks like React js, PHP, Django, etc.",
+        "link": "/Services/WebDevelopment"
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-phone",
+        "title": "Application Development",
+        "content": "We have a very diverse Application development team that works on iOS and Android-based applications as well as cross-platform frameworks.",
+        "link": "/Services/Appdevelopment"
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-display1",
+        "title": "Software Development ",
+        "content": "We offer customized software solutions that line up perfectly with your operations and requirements. Innovative apps, streamlined systems, etc.",
+        "link": "/Services/Softwaredevelopment"
+    },
+    {
+        "id": 5,
+        "icon": "pe-7s-diskette",
+        "title": "E-Commerce Store Development",
+        "content": "One of our best specialities is creating and managing cool E-commerce stores on Shopify, WooCommerce, OpenCart, Wix, CS-Cart and many more.",
+        "link": "/Services/Ecommerce"
+    },
+    {
+        "id": 6,
+        "icon": "pe-7s-display2",
+        "title": "Content Writing",
+        "content": "We will write content for you that will convert scrollers into customers. Our quality content writing team knows how to put your quality business into quality words.",
+        "link": "/Services/Content"
+    },
+    {
+        "id": 7,
+        "icon": "pe-7s-paint-bucket",
+        "title": "Graphic Designing",
+        "content": "Visuals are absolutely important in this era where people have short attention spans. We produce graphics that are appealing and persuasive.",
+        "link": "/Services/Graphics"
+    },
+    {
+        "id": 8,
+        "icon": "pe-7s-graph3",
+        "title": "SEO Link-Building",
+        "content": "Our quality SEO and link-building experts will convert your sites credibility and enhance your brand’s identity. With us, your website goes to the top of Search Engine rankings.",
+        "link": "/Services/Seo"
+    },
+    {
+        "id": 9,
+        "icon": "pe-7s-graph",
+        "title": "Social Media Marketing",
+        "content": "We also use social media platforms to take your brand to the next level. In this age of social media, we leverage social media to maximize your business potential.",
+        "link": "/Services/Smm"
+    },
+    {
+      "id": 10,
+        "icon": "pe-7s-paint-bucket",
+        "title": "2D and 3D Animations",
+        "content": "We bring your concepts to life by turning ideas into dynamic and visually appealing animations. Product demos, explainer videos, and visualizations with 2D/3D animations.",
+        "link": "/Services/2d3d"
+    },
+    {
+        "id": 11,
+        "icon": "pe-7s-display2",
+        "title": "AI and Data Analytics",
+        "content": "We make customized AI-powered chatbots and products and convert your data into valuable insights so that your business reaches its max potential.",
+        "link": "/Services/AiAndDataAnalytics"
+    },
+    {
+        "id": 12,
+        "icon": "pe-7s-graph2",
+        "title": "Pay-Per-Click(PPC) Advertising",
+        "content": "We run PPC advertising campaigns to drive more instant traffic. You can choose to spend as much as you want to with expert-driven PPC advertising campaigns.",
+        "link": "/Services/Ppc"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "title": "Is Business Services A Good Career Path?",
+        "content": " Learn if business services is a good career path for you or not. Get to know the pros and cons of this sector in terms if your future.",
+        "image": "/img/blog1.jpg",
+        "tags": ["Business Services", "Career Path", "future"],
+        "Link": "/blog/Is-Business-Services-A-Good-Career-Path",
+        "date": {
+            "day": "18",
+            "month": "September"
+        }
+    },
+    {
+        "id": 1,
+        "title": "How to Be Better at Digital Marketing",
+        "content": " Anyone may become a digital marketer, but only a few possess the skills to be called a skilled digital marketer. Learn the tips to be better at digital marketing",
+        "image": "/img/blog2.jpg",
+        "tags": ["Digital Marketing", "Marketing Tips"],
+        "Link": "/blog/How-to-Be-Better-at-Digital-Marketing",
+        "date": {
+            "day": "28",
+            "month": "September"
+        }
+    },
+        {
+            "id": 1,
+            "title": "How to Stay Relevant in the Field of Software Development",
+            "content": "Curious to learn how to stay relevant in the field of software development? Learn everything you need to know, in detail. ",
+            "image": "/img/blog3.jpg",
+            "tags": ["Software", "Development", "future"],
+            "Link": "/blog/How-to-Stay-Relevant-in-the-Field-of-Software-Development",
+            "date": {
+                "day": "10",
+                "month": "October"
+            }
+        },
+{
+    "id": 1,
+    "title": "How to Craft a Modern Logo Design",
+    "content": "Logo design is important for your brand.  In this blog, we will explore in detail the elements needed to craft a modern logo design.",
+    "image": "/img/blog4.jpg",
+    "tags": ["Logo Design", "Design"],
+    "Link": "/blog/How-to-Craft-a-Modern-Logo-Design",
+    "date": {
+        "day": "18",
+        "month": "October"
+    }
+},
+{
+    "id": 1,
+    "title": "Abstract Graphic Design: Everything You Need To Know",
+    "content": "Abstract graphic design is an interesting realm within the broader domain of visual arts. This blog aims to educate about Abstract Graphic Design. ",
+    "image": "/img/blog5.jpg",
+    "tags": ["Graphic Design", "Design"],
+    "Link": "/blog/Abstract-Graphic-Design-Everything-You-Need-To-Know",
+    "date": {
+        "day": "28",
+        "month": "October"
+    }
+}
+    
+ 
+]

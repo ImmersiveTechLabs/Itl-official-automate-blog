@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "title": "Let's Talk.",
+  "email": "hello@immersivetechlab.com",
+  "phone": "+971 50 215 6130",
+  "location": {
+    "first": "Westbury tower, Business bay, Dubai,",
+    "second": "UAE., Dubai, United Arab Emirates"
+  }
+}

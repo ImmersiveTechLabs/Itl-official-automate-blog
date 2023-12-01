@@ -1,0 +1,63 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "image": "/img/team/1.jpg",
+      "title": "Stephanie Lawrence",
+      "sub": "CEO, Colabrio Media"
+    },
+    {
+      "id": 2,
+      "image": "/img/team/2.jpg",
+      "title": "Alex Regelman",
+      "sub": "CEO, Colabrio Media"
+    },
+    {
+      "id": 3,
+      "image": "/img/team/3.jpg",
+      "title": "Stacey Stamper",
+      "sub": "CEO, Colabrio Media"
+    },
+    {
+      "id": 4,
+      "image": "/img/team/4.jpg",
+      "title": "Stephanie Lawrence",
+      "sub": "CEO, Colabrio Media"
+    },
+    {
+      "id": 5,
+      "image": "/img/team/5.jpg",
+      "title": "Alex Regelman",
+      "sub": "CEO, Colabrio Media"
+    },
+    {
+      "id": 6,
+      "image": "/img/team/6.jpg",
+      "title": "Stacey Stamper",
+      "sub": "CEO, Colabrio Media"
+    }
+
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "text": "Designing & Animations",
+      "value": "100%"
+    },
+    {
+      "id": 2,
+      "text": "Development",
+      "value": "90%"
+    },
+    {
+      "id": 3,
+      "text": "Digital Marketing",
+      "value": "90%"
+    },
+    {
+      "id": 4,
+      "text": "Ai & Machine Learning",
+      "value": "80%"
+    }
+  ]
+}

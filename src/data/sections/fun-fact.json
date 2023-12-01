@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "content": "People who are commited to their management tasks.",
+    "value": "83"
+},
+{
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "content": "Signed projects that have been confirmed complete!",
+    "value": "110"
+},
+{
+    "id": 3,
+    "icon": "pe-7s-medal",
+    "content": "Positive Reviews from Clients",
+    "value": "70"
+}
+]
