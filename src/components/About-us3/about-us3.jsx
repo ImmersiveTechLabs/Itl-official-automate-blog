@@ -66,7 +66,7 @@ const AboutUs3 = () => {
                   {AboutUs3date.content.second}
                 </p>
             
-              <Link href={`/about/about-dark`}>
+              <Link href={`/about`}>
                 <a
                   className="butn bord curve mt-40 wow fadeInUp"
                   data-wow-delay=".8s"

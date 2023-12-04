@@ -38,7 +38,7 @@ const AboutIntro = () => {
                     {AboutInfo1Data.paragraph5}
                 </p>
                  
-                 <Link href="/contact/contact-dark">
+                 <Link href="/contact">
                     <button className="btn btn-theme btn-radius mt-30 wow fadeInUp  ">
                         Contact Us
                     </button>
