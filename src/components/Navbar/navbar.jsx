@@ -157,11 +157,11 @@ const Navbar = ({ lr, nr, theme }) => {
                 </Link>
               </div>
             </li> */}
-          {/* <li className="nav-item">
-              <Link href={`/faq/faq`}>
-                <a className="nav-link">Faqs</a>
+          <li className="nav-item">
+              <Link href={`/Portfolio`}>
+                <a className="nav-link">Portfolio</a>
               </Link>
-            </li> */}
+            </li>
           
             <li className="nav-item">
               <Link href={`/blog/blog-list`}>

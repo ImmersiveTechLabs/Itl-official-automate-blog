@@ -47,9 +47,9 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 <span data-filter="*" className="active">
                   All
                 </span>
-                <span data-filter=".brand">Branding</span>
-                <span data-filter=".web">Mobile App</span>
-                <span data-filter=".graphic">Creative</span>
+                <span data-filter=".websites">Websites</span>
+                <span data-filter=".post">Social Media</span>
+                <span data-filter=".stores">Stores</span>
               </div>
             </div>
           )}
@@ -62,22 +62,22 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items graphic `}
+              } items websites `}
               
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-light`}>
+                <Link href={`/Services`}>
                   <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/portfolio/portfolio/1/1.jpg" alt="image"  />
+                    <img src="/img/portfolio/websites/1.jpg" alt="image"  />
                     {/* <div className="item-img-overlay"></div> */}
                   </a>
                 </Link>
               </div>
               <div className="cont">
-                <h6>Creativity Demand</h6>
+                <h6>Green Padriatics</h6>
                 <span>
-                  <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">WordPress</Link>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">React / Next</Link>
                 </span>
               </div>
             </div>
@@ -89,22 +89,22 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items web `}
+              } items post `}
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-light`}>
+                <Link href={`/Services`}>
                   <a className="imago " style={{display:"contents"}}>
-                    <img src="/img/portfolio/portfolio/1/2.jpg" alt="image" />
+                    <img src="/img/portfolio/SMP/2.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
               </div>
               <div className="cont">
-                <h6>Through The Breaking</h6>
+                <h6>Immersive Techlab</h6>
                 <span>
-                  <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">WordPress</Link>
+                  <Link href="/works3/works3-light">Secial Media</Link>,
+                  <Link href="/works3/works3-light">Design</Link>
                 </span>
               </div>
             </div>
@@ -116,22 +116,22 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items brand `}
+              } items websites `}
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-light`}>
+                <Link href={`/Services`}>
                   <a className="imago " style={{display:"contents"}}>
-                    <img src="/img/portfolio/portfolio/1/3.jpg" alt="image" />
+                    <img src="/img/portfolio/websites/3.png" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
               </div>
               <div className="cont">
-                <h6>Create With Creatives</h6>
+                <h6>Immersive Animator</h6>
                 <span>
-                  <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">WordPress</Link>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">Wordpress</Link>
                 </span>
               </div>
             </div>
@@ -143,22 +143,22 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items graphic wow`}
+              } items stores wow`}
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-light`}>
+                <Link href={`/Services`}>
                   <a className="imago " style={{display:"contents"}}>
-                    <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                    <img src="/img/portfolio/websites/2.png" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
               </div>
               <div className="cont">
-                <h6>Energies of Love</h6>
+                <h6>Carmel Industries</h6>
                 <span>
-                  <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">WordPress</Link>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">Store</Link>
                 </span>
               </div>
             </div>
@@ -170,22 +170,22 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items web wow fadeInUp`}
+              } items post wow fadeInUp`}
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-light`}>
+                <Link href={`/Services`}>
                   <a className="imago "style={{display:"contents"}}>
-                    <img src="/img/portfolio/portfolio/1/5.jpg" alt="image" />
+                    <img src="/img/portfolio/SMP/1.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
               </div>
               <div className="cont">
-                <h6>See It Yourself</h6>
+                <h6>Immersive Animator</h6>
                 <span>
                   <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">WordPress</Link>
+                  <Link href="/works3/works3-light">Social Media</Link>
                 </span>
               </div>
             </div>
@@ -197,22 +197,22 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items brand wow fadeInUp`}
+              } items post wow fadeInUp`}
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-light`}>
+                <Link href={`/Services`}>
                   <a className="imago "style={{display:"contents"}}>
-                    <img src="/img/portfolio/portfolio/1/6.jpg" alt="image" />
+                    <img src="/img/portfolio/SMP/3.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
               </div>
               <div className="cont">
-                <h6>Blast From The Past</h6>
+                <h6>Immersive Animator</h6>
                 <span>
                   <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">WordPress</Link>
+                  <Link href="/works3/works3-light">Social Media</Link>
                 </span>
               </div>
             </div>
