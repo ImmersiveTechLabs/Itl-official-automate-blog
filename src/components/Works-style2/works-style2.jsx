@@ -68,7 +68,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               <div className="item-img">
                 <Link href={`/Services`}>
                   <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/portfolio/websites/1.jpg" alt="image"  />
+                    <img src="/img/Web/1.jpg" alt="image"  />
                     {/* <div className="item-img-overlay"></div> */}
                   </a>
                 </Link>
@@ -89,13 +89,13 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items post `}
+              } items websites   `}
               data-wow-delay=".4s"
             >
               <div className="item-img">
                 <Link href={`/Services`}>
                   <a className="imago " style={{display:"contents"}}>
-                    <img src="/img/portfolio/SMP/2.jpg" alt="image" />
+                    <img src="/img/Web/2.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -116,13 +116,13 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items websites `}
+              } items websites  `}
               data-wow-delay=".4s"
             >
               <div className="item-img">
                 <Link href={`/Services`}>
                   <a className="imago " style={{display:"contents"}}>
-                    <img src="/img/portfolio/websites/3.png" alt="image" />
+                    <img src="/img/Web/3.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -143,13 +143,13 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items stores wow`}
+              } items post ow`}
               data-wow-delay=".4s"
             >
               <div className="item-img">
                 <Link href={`/Services`}>
                   <a className="imago " style={{display:"contents"}}>
-                    <img src="/img/portfolio/websites/2.png" alt="image" />
+                    <img src="/img/SMP/SMP 1.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -170,13 +170,13 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items post wow fadeInUp`}
+              } items post  fadeInUp`}
               data-wow-delay=".4s"
             >
               <div className="item-img">
                 <Link href={`/Services`}>
                   <a className="imago "style={{display:"contents"}}>
-                    <img src="/img/portfolio/SMP/1.jpg" alt="image" />
+                    <img src="/img/SMP/SMP 5.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -197,13 +197,13 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items post wow fadeInUp`}
+              } items post  fadeInUp`}
               data-wow-delay=".4s"
             >
               <div className="item-img">
                 <Link href={`/Services`}>
                   <a className="imago "style={{display:"contents"}}>
-                    <img src="/img/portfolio/SMP/3.jpg" alt="image" />
+                    <img src="/img/SMP/SMP 3.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -216,6 +216,257 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </span>
               </div>
             </div>
+
+            
+            <div
+              className={`${
+                grid === 3
+                  ? "col-lg-4 col-md-6"
+                  : grid === 2
+                  ? "col-md-6"
+                  : "col-12"
+              } items websites websites `}
+              
+            >
+              <div className="item-img">
+                <Link href={`/Services`}>
+                  <a className="imago" style={{display:"contents"}}>
+                    <img src="/img/Web/4.jpg" alt="image"  />
+                    {/* <div className="item-img-overlay"></div> */}
+                  </a>
+                </Link>
+              </div>
+              <div className="cont">
+                <h6>Green Padriatics</h6>
+                <span>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">React / Next</Link>
+                </span>
+              </div>
+            </div>
+            
+            <div
+              className={`${
+                grid === 3
+                  ? "col-lg-4 col-md-6"
+                  : grid === 2
+                  ? "col-md-6"
+                  : "col-12"
+              } items websites websites `}
+              
+            >
+              <div className="item-img">
+                <Link href={`/Services`}>
+                  <a className="imago" style={{display:"contents"}}>
+                    <img src="/img/Web/5.jpg" alt="image"  />
+                    {/* <div className="item-img-overlay"></div> */}
+                  </a>
+                </Link>
+              </div>
+              <div className="cont">
+                <h6>Green Padriatics</h6>
+                <span>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">React / Next</Link>
+                </span>
+              </div>
+            </div>
+
+            <div
+              className={`${
+                grid === 3
+                  ? "col-lg-4 col-md-6"
+                  : grid === 2
+                  ? "col-md-6"
+                  : "col-12"
+              } items websites websites `}
+              
+            >
+              <div className="item-img">
+                <Link href={`/Services`}>
+                  <a className="imago" style={{display:"contents"}}>
+                    <img src="/img/Web/6.jpg" alt="image"  />
+                    {/* <div className="item-img-overlay"></div> */}
+                  </a>
+                </Link>
+              </div>
+              <div className="cont">
+                <h6>Green Padriatics</h6>
+                <span>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">React / Next</Link>
+                </span>
+              </div>
+            </div>
+
+
+
+            <div
+              className={`${
+                grid === 3
+                  ? "col-lg-4 col-md-6"
+                  : grid === 2
+                  ? "col-md-6"
+                  : "col-12"
+              } items post  `}
+              
+            >
+              <div className="item-img">
+                <Link href={`/Services`}>
+                  <a className="imago" style={{display:"contents"}}>
+                    <img src="/img/SMP/SMP 4.jpg" alt="image"  />
+                    {/* <div className="item-img-overlay"></div> */}
+                  </a>
+                </Link>
+              </div>
+              <div className="cont">
+                <h6>Green Padriatics</h6>
+                <span>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">React / Next</Link>
+                </span>
+              </div>
+            </div>
+            
+            <div
+              className={`${
+                grid === 3
+                  ? "col-lg-4 col-md-6"
+                  : grid === 2
+                  ? "col-md-6"
+                  : "col-12"
+              } items post  `}
+              
+            >
+              <div className="item-img">
+                <Link href={`/Services`}>
+                  <a className="imago" style={{display:"contents"}}>
+                    <img src="/img/SMP/SMP 2.jpg" alt="image"  />
+                    {/* <div className="item-img-overlay"></div> */}
+                  </a>
+                </Link>
+              </div>
+              <div className="cont">
+                <h6>Green Padriatics</h6>
+                <span>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">React / Next</Link>
+                </span>
+              </div>
+            </div>
+
+            <div
+              className={`${
+                grid === 3
+                  ? "col-lg-4 col-md-6"
+                  : grid === 2
+                  ? "col-md-6"
+                  : "col-12"
+              } items post  `}
+              
+            >
+              <div className="item-img">
+                <Link href={`/Services`}>
+                  <a className="imago" style={{display:"contents"}}>
+                    <img src="/img/SMP/SMP 6.jpg" alt="image"  />
+                    {/* <div className="item-img-overlay"></div> */}
+                  </a>
+                </Link>
+              </div>
+              <div className="cont">
+                <h6>Green Padriatics</h6>
+                <span>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">React / Next</Link>
+                </span>
+              </div>
+            </div>
+
+
+
+
+            <div
+              className={`${
+                grid === 3
+                  ? "col-lg-4 col-md-6"
+                  : grid === 2
+                  ? "col-md-6"
+                  : "col-12"
+              } items websites websites `}
+              
+            >
+              <div className="item-img">
+                <Link href={`/Services`}>
+                  <a className="imago" style={{display:"contents"}}>
+                    <img src="/img/Web/7.jpg" alt="image"  />
+                    {/* <div className="item-img-overlay"></div> */}
+                  </a>
+                </Link>
+              </div>
+              <div className="cont">
+                <h6>Green Padriatics</h6>
+                <span>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">React / Next</Link>
+                </span>
+              </div>
+            </div>
+            
+            <div
+              className={`${
+                grid === 3
+                  ? "col-lg-4 col-md-6"
+                  : grid === 2
+                  ? "col-md-6"
+                  : "col-12"
+              } items websites websites `}
+              
+            >
+              <div className="item-img">
+                <Link href={`/Services`}>
+                  <a className="imago" style={{display:"contents"}}>
+                    <img src="/img/Web/8.jpg" alt="image"  />
+                    {/* <div className="item-img-overlay"></div> */}
+                  </a>
+                </Link>
+              </div>
+              <div className="cont">
+                <h6>Green Padriatics</h6>
+                <span>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">React / Next</Link>
+                </span>
+              </div>
+            </div>
+
+            <div
+              className={`${
+                grid === 3
+                  ? "col-lg-4 col-md-6"
+                  : grid === 2
+                  ? "col-md-6"
+                  : "col-12"
+              } items websites websites `}
+              
+            >
+              <div className="item-img">
+                <Link href={`/Services`}>
+                  <a className="imago" style={{display:"contents"}}>
+                    <img src="/img/Web/9.jpg" alt="image"  />
+                    {/* <div className="item-img-overlay"></div> */}
+                  </a>
+                </Link>
+              </div>
+              <div className="cont">
+                <h6>Green Padriatics</h6>
+                <span>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">React / Next</Link>
+                </span>
+              </div>
+            </div>
+
+
           </div>
         </div>
       </div>
