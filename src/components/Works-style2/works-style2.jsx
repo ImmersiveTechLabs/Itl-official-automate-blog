@@ -74,10 +74,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padriatics</h6>
+                <h6>Prager Matis</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">React / Next</Link>
+                  <Link href="/works3/works3-light">Wordpress</Link>
                 </span>
               </div>
             </div>
@@ -89,7 +89,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items websites   `}
+              } items stores   `}
               data-wow-delay=".4s"
             >
               <div className="item-img">
@@ -101,10 +101,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Immersive Techlab</h6>
+                <h6>UGE-1</h6>
                 <span>
-                  <Link href="/works3/works3-light">Secial Media</Link>,
-                  <Link href="/works3/works3-light">Design</Link>
+                  <Link href="/works3/works3-light">Website</Link>,
+                  <Link href="/works3/works3-light">Shopify</Link>
                 </span>
               </div>
             </div>
@@ -116,7 +116,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items websites  `}
+              } items stores  `}
               data-wow-delay=".4s"
             >
               <div className="item-img">
@@ -128,10 +128,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Immersive Animator</h6>
+                <h6>Yumma</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">Wordpress</Link>
+                  <Link href="/works3/works3-light">Shopify</Link>
                 </span>
               </div>
             </div>
@@ -155,10 +155,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Carmel Industries</h6>
+                <h6>Green Padriatics</h6>
                 <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">Store</Link>
+                  <Link href="/works3/works3-light">Design</Link>,
+                  <Link href="/works3/works3-light">Socia Media</Link>
                 </span>
               </div>
             </div>
@@ -182,7 +182,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Immersive Animator</h6>
+                <h6>Immersive Techlab</h6>
                 <span>
                   <Link href="/works3/works3-light">Design</Link>,
                   <Link href="/works3/works3-light">Social Media</Link>
@@ -209,7 +209,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Immersive Animator</h6>
+                <h6>Immersive Techlab</h6>
                 <span>
                   <Link href="/works3/works3-light">Design</Link>,
                   <Link href="/works3/works3-light">Social Media</Link>
@@ -225,7 +225,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items websites websites `}
+              } items stores `}
               
             >
               <div className="item-img">
@@ -237,10 +237,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padriatics</h6>
+                <h6>City Color Cosmatics</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">React / Next</Link>
+                  <Link href="/works3/works3-light">Shopify</Link>
                 </span>
               </div>
             </div>
@@ -264,7 +264,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padriatics</h6>
+                <h6>Byteify Technologies</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
                   <Link href="/works3/works3-light">React / Next</Link>
@@ -279,7 +279,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items websites websites `}
+              } items websites  `}
               
             >
               <div className="item-img">
@@ -291,10 +291,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padriatics</h6>
+                <h6>Assorted MarketPlace</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">React / Next</Link>
+                  <Link href="/works3/works3-light">Wordpress</Link>
                 </span>
               </div>
             </div>
@@ -320,10 +320,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padriatics</h6>
+                <h6>Immersive Animator</h6>
                 <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">React / Next</Link>
+                  <Link href="/works3/works3-light">Design</Link>,
+                  <Link href="/works3/works3-light">Social Media</Link>
                 </span>
               </div>
             </div>
@@ -347,10 +347,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padriatics</h6>
+                <h6>NeuraSphere</h6>
                 <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">React / Next</Link>
+                  <Link href="/works3/works3-light">Design</Link>,
+                  <Link href="/works3/works3-light">Social Media</Link>
                 </span>
               </div>
             </div>
@@ -374,10 +374,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padriatics</h6>
+                <h6>Immersive Animator</h6>
                 <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">React / Next</Link>
+                  <Link href="/works3/works3-light">Design</Link>,
+                  <Link href="/works3/works3-light">Social Media</Link>
                 </span>
               </div>
             </div>
@@ -419,7 +419,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items websites websites `}
+              } items stores `}
               
             >
               <div className="item-img">
@@ -431,10 +431,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padriatics</h6>
+                <h6>Carmel Industries</h6>
                 <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">React / Next</Link>
+                  <Link href="/works3/works3-light">Store</Link>,
+                  <Link href="/works3/works3-light">Shopify</Link>
                 </span>
               </div>
             </div>
@@ -458,7 +458,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padriatics</h6>
+                <h6>Immersive Techlab</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
                   <Link href="/works3/works3-light">React / Next</Link>
