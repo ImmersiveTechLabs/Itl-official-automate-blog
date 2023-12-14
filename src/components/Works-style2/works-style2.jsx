@@ -458,10 +458,10 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Immersive Techlab</h6>
+                <h6>Immersive Animator</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">React / Next</Link>
+                  <Link href="/works3/works3-light">Wordpress</Link>
                 </span>
               </div>
             </div>
