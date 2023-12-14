@@ -404,7 +404,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padriatics</h6>
+                <h6>Green Padiatrics</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
                   <Link href="/works3/works3-light">React / Next</Link>
