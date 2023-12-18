@@ -101,7 +101,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>UGE-1</h6>
+                <h6>UGE Electronics</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
                   <Link href="/works3/works3-light">Shopify</Link>
@@ -155,7 +155,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padriatics</h6>
+                <h6>Green Pediatrics</h6>
                 <span>
                   <Link href="/works3/works3-light">Design</Link>,
                   <Link href="/works3/works3-light">Socia Media</Link>
@@ -237,7 +237,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>City Color Cosmatics</h6>
+                <h6>City Color Cosmetics</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
                   <Link href="/works3/works3-light">Shopify</Link>
@@ -291,7 +291,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Assorted MarketPlace</h6>
+                <h6>Assorted Market Place</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
                   <Link href="/works3/works3-light">Wordpress</Link>
@@ -404,7 +404,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Green Padiatrics</h6>
+                <h6>Green Pediatrics</h6>
                 <span>
                   <Link href="/works3/works3-light">Website</Link>,
                   <Link href="/works3/works3-light">React / Next</Link>
