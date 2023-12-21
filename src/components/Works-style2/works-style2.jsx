@@ -2,6 +2,7 @@
 import React from "react";
 import Link from "next/link";
 import initIsotope from "../../common/initIsotope";
+import Data from "../../data/Portfolio.json";
 
 const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
   React.useEffect(() => {
@@ -47,424 +48,49 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 <span data-filter="*" className="active">
                   All
                 </span>
-                <span data-filter=".websites">Websites</span>
-                <span data-filter=".post">Social Media</span>
-                <span data-filter=".stores">Stores</span>
+                <span data-filter=".website">Websites</span>
+                <span data-filter=".design">Social Media</span>
+                <span data-filter=".store">Stores</span>
               </div>
             </div>
           )}
 
           <div className="gallery full-width">
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items websites `}
-              
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/Web/1.jpg" alt="image"  />
-                    {/* <div className="item-img-overlay"></div> */}
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Prager Matis</h6>
-                <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">Wordpress</Link>
-                </span>
-              </div>
-            </div>
-
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items stores   `}
-              data-wow-delay=".4s"
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago " style={{display:"contents"}}>
-                    <img src="/img/Web/2.jpg" alt="image" />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>UGE Electronics</h6>
-                <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">Shopify</Link>
-                </span>
-              </div>
-            </div>
-
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items stores  `}
-              data-wow-delay=".4s"
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago " style={{display:"contents"}}>
-                    <img src="/img/Web/3.jpg" alt="image" />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Yumma</h6>
-                <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">Shopify</Link>
-                </span>
-              </div>
-            </div>
-
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items post ow`}
-              data-wow-delay=".4s"
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago " style={{display:"contents"}}>
-                    <img src="/img/SMP/SMP 1.jpg" alt="image" />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Green Pediatrics</h6>
-                <span>
-                  <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">Socia Media</Link>
-                </span>
-              </div>
-            </div>
-
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items post  fadeInUp`}
-              data-wow-delay=".4s"
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago "style={{display:"contents"}}>
-                    <img src="/img/SMP/SMP 5.jpg" alt="image" />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Immersive Techlab</h6>
-                <span>
-                  <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">Social Media</Link>
-                </span>
-              </div>
-            </div>
-
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items post  fadeInUp`}
-              data-wow-delay=".4s"
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago "style={{display:"contents"}}>
-                    <img src="/img/SMP/SMP 3.jpg" alt="image" />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Immersive Techlab</h6>
-                <span>
-                  <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">Social Media</Link>
-                </span>
-              </div>
-            </div>
-
-            
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items stores `}
-              
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/Web/4.jpg" alt="image"  />
-                    {/* <div className="item-img-overlay"></div> */}
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>City Color Cosmetics</h6>
-                <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">Shopify</Link>
-                </span>
-              </div>
-            </div>
-            
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items websites websites `}
-              
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/Web/5.jpg" alt="image"  />
-                    {/* <div className="item-img-overlay"></div> */}
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Byteify Technologies</h6>
-                <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">React / Next</Link>
-                </span>
-              </div>
-            </div>
-
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items websites  `}
-              
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/Web/6.jpg" alt="image"  />
-                    {/* <div className="item-img-overlay"></div> */}
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Assorted Market Place</h6>
-                <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">Wordpress</Link>
-                </span>
-              </div>
-            </div>
 
 
-
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items post  `}
-              
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/SMP/SMP 4.jpg" alt="image"  />
-                    {/* <div className="item-img-overlay"></div> */}
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Immersive Animator</h6>
-                <span>
-                  <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">Social Media</Link>
-                </span>
-              </div>
-            </div>
-            
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items post  `}
-              
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/SMP/SMP 2.jpg" alt="image"  />
-                    {/* <div className="item-img-overlay"></div> */}
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>NeuraSphere</h6>
-                <span>
-                  <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">Social Media</Link>
-                </span>
-              </div>
-            </div>
-
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items post  `}
-              
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/SMP/SMP 6.jpg" alt="image"  />
-                    {/* <div className="item-img-overlay"></div> */}
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Immersive Animator</h6>
-                <span>
-                  <Link href="/works3/works3-light">Design</Link>,
-                  <Link href="/works3/works3-light">Social Media</Link>
-                </span>
-              </div>
-            </div>
-
-
-
-
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items websites websites `}
-              
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/Web/7.jpg" alt="image"  />
-                    {/* <div className="item-img-overlay"></div> */}
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Green Pediatrics</h6>
-                <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">React / Next</Link>
-                </span>
-              </div>
-            </div>
-            
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items stores `}
-              
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/Web/8.jpg" alt="image"  />
-                    {/* <div className="item-img-overlay"></div> */}
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Carmel Industries</h6>
-                <span>
-                  <Link href="/works3/works3-light">Store</Link>,
-                  <Link href="/works3/works3-light">Shopify</Link>
-                </span>
-              </div>
-            </div>
-
-            <div
-              className={`${
-                grid === 3
-                  ? "col-lg-4 col-md-6"
-                  : grid === 2
-                  ? "col-md-6"
-                  : "col-12"
-              } items websites websites `}
-              
-            >
-              <div className="item-img">
-                <Link href={`/Services`}>
-                  <a className="imago" style={{display:"contents"}}>
-                    <img src="/img/Web/9.jpg" alt="image"  />
-                    {/* <div className="item-img-overlay"></div> */}
-                  </a>
-                </Link>
-              </div>
-              <div className="cont">
-                <h6>Immersive Animator</h6>
-                <span>
-                  <Link href="/works3/works3-light">Website</Link>,
-                  <Link href="/works3/works3-light">Wordpress</Link>
-                </span>
-              </div>
-            </div>
+           
+           {
+              Data.map((item, index) => {
+                return(
+                  <div
+                  className={`${
+                    grid === 3
+                      ? "col-lg-4 col-md-6"
+                      : grid === 2
+                      ? "col-md-6"
+                      : "col-12"
+                  } items ${item.filter} `}
+                  data-wow-delay=".4s"
+                >
+                  <div className="item-img">
+                    <Link href={item.link}>
+                      <a className="imago " style={{display:"contents"}}>
+                        <img src={item.img} alt="image" />
+                        <div className="item-img-overlay"></div>
+                      </a>
+                    </Link>
+                  </div>
+                  <div className="cont">
+                    <h6>{item.name}</h6>
+                    <span>
+                      <Link href={item.link}>{item.type}</Link>,
+                      <Link href={item.link}>{item.category}</Link>
+                    </span>
+                  </div>
+                </div>
+                )
+              })
+           }
 
 
           </div>
