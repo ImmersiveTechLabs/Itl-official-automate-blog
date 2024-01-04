@@ -118,5 +118,69 @@
         "category": "Wordpress",
         "filter": "website",
         "link": "/Services"         
+    },
+    {
+        "img": "/img/SMP/SMP 7.png",
+        "name": "Immersive Animator",
+        "type": "Social Media",
+        "category": "Design",
+        "filter": "design",
+        "link": "/Services"
+    },
+    {
+        "img": "/img/SMP/SMP 8.png",
+        "name": "Immersive Animator",
+        "type": "Social Media",
+        "category": "Design",
+        "filter": "design",
+        "link": "/Services"
+    },
+    {
+        "img": "/img/SMP/SMP 9.png",
+        "name": "Immersive Animator",
+        "type": "Social Media",
+        "category": "Design",
+        "filter": "design",
+        "link": "/Services"
+    },
+    {
+      "img": "/img/Web/10.png",
+        "name": "Dragon Maritimo",
+        "type": "Website",
+        "category": "Wordpress",
+        "filter": "website",
+        "link": "/Services"  
+    },
+    {
+        "img": "/img/Web/11.png",
+        "name": "The Jewel King",
+        "type": "Shopify",
+        "category": "Store",
+        "filter": "store",
+        "link": "/Services"
+    },
+    {
+        "img":"/img/Web/12.png",
+        "name": "Goodrich Logistics",
+        "type": "Website",
+        "category": "Wordpress",
+        "filter": "website",
+        "link": "/Services"
+    },
+    {
+        "img": "/img/Web/13.png",
+        "name": "Meezan Light",
+        "type": "Website",
+        "category": "Wordpress",
+        "filter": "website",
+        "link": "/Services"
+    },
+    {
+        "img": "/img/Web/14.png",
+        "name": "Idyllic",
+        "type": "Website",
+        "category": "Wordpress",
+        "filter": "website",   
+        "link": "/Services"
     }
 ]
