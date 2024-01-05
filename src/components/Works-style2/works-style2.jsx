@@ -63,6 +63,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               Data.map((item, index) => {
                 return(
                   <div
+                  key={index}
                   className={`${
                     grid === 3
                       ? "col-lg-4 col-md-6"
