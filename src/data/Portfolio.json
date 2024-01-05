@@ -182,5 +182,13 @@
         "category": "Wordpress",
         "filter": "website",   
         "link": "/Services"
+    },
+    {
+      "img":"/img/Web/15.png",
+      "name": "ISL",
+        "type": "Website",
+        "category": "Wordpress",
+        "filter": "website",
+        "link": "/Services"
     }
 ]
